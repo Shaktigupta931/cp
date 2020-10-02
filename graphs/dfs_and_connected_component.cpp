@@ -2,8 +2,6 @@
 
 using namespace std;
 
-//mem(a, b) memset(a, (b), sizeof(a))
-
 typedef long long ll;
 
 #define f(i,a,b) for (ll i=a ; i<b ; i++)
