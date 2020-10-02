@@ -14,7 +14,8 @@ int main()
        cin>>s;
        int a=count(s.begin(),s.end(),'A');
        int b=count(s.begin(),s.end(),'B');
-       if((a==(n/2))||(b==(n/2)))
+       int h= n/2;
+       if((a==(h))||(b==(h))
        cout<<"Case #"<<i<<": "<<"Y"<<"\n";
        else
        cout<<"Case #"<<i<<": "<<"N"<<"\n";
