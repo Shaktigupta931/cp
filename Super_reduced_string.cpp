@@ -25,7 +25,7 @@ string fun(string s1)
 }
 int main()
 {
-    string s1,s2;
+    string s2,s1;
     getline(cin,s1);
  
     while(c)
