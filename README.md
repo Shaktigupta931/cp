@@ -1,1 +1,1 @@
-We are creating this repo for learning.
+we are still learning.
